@@ -1,0 +1,33 @@
+.nav {
+    background-color: rgba(16, 144, 216, 0.1);
+}
+.card-img-top {
+  width: 75%;
+  margin: 25px auto;
+}
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rgb(247, 247, 247);
+}
+
+.cross:hover {
+  border: 1px solid gray;
+}
+
+.card-img {
+ height: 200px;
+}
+
+.card-img img{
+    max-width: 200px;
+}
+
+input {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) inset,
+    0 6px 20px 0 rgba(0, 0, 0, 0.19) inset;
+  padding-left: 10px;
+}
